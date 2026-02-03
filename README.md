@@ -2,7 +2,7 @@
 
 
 ### 📂 Projects
-#### 🥔 **POTATO(포타토)** | `Backend`
+#### 🥔 [**POTATO(포타토)**](https://github.com/qkrgonn/POTATO) | `Backend`
 > 반응형 웹 프로젝트 (2025.11 - 진행 중)
 <br><sub>- 프로젝트 백엔드 아키텍처 설계 및 API 개발</sub>  
 
