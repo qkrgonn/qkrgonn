@@ -3,7 +3,7 @@
 
 ### 📂 Projects
 #### 🥔 [**POTATO(포타토)**](https://github.com/qkrgonn/POTATO) | `Backend`
-> 반응형 웹 프로젝트 (2025.11 - 진행 중)
+> 기록으로 완성하는 나만의 캐릭터 소셜 플랫폼 (2025.11 - 진행 중)
 <br><sub>- 프로젝트 백엔드 아키텍처 설계 및 API 개발</sub>  
 
 #### ♻️ [**PETicle (페티클)**](https://github.com/qkrgonn/PETicle0312) | `Fullstack`
