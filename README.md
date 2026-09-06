@@ -11,7 +11,7 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🥔 POTATO** | Redisson 분산 락 & 비관적 락 기반 동시성 결제 정합성 보장 서비스 | Java 21, Spring Boot, MySQL, Redis, JMeter | [Repo](https://github.com/qkrgonn/potato-back) |
-| **🏔️ SHERPA** | 시맨틱 라우터 & 지식 그래프 기반 RAG AI 지식 검색 보조 서비스 | Java 21, Spring Boot, MariaDB, OpenAI API | [Repo](https://github.com/qkrgonn/SHERPA) |
+| **🏔️ SHERPA** | 시맨틱 라우터 & 지식 그래프 기반 RAG AI 지식 검색 보조 서비스 | Java 21, Spring Boot, MariaDB, OpenAI API | [Repo](https://github.com/girls3boy1/Sherpa.git) |
 | **♻️ PETicle** | AI/IoT 연동 청소년 환경 교육 게이미피케이션 서비스 (한이음) | Java 17, Spring Boot, MariaDB, React Native | [Repo](https://github.com/qkrgonn/PETicle-Backend) |
 
 <br>
