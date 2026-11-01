@@ -10,7 +10,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🥔 POTATO** | Java 21, Spring Boot, MySQL, Redis, JMeter | [Repo](https://github.com/qkrgonn/potato-back) |
+| **🥔 POTATO** | Java 21, Spring Boot, MySQL, Redis, JMeter | | [Repo](https://github.com/qkrgonn/potato-back) |
 | **♻️ PETicle** | AI/IoT 연동 청소년 환경 교육 게이미피케이션 서비스 | Java 17, Spring Boot, MariaDB, React Native | [Repo](https://github.com/qkrgonn/PETicle-Backend) |
 
 <br>
