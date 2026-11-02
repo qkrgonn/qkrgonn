@@ -10,7 +10,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🥔 POTATO** | 자취생 집밥 인증을 캐릭터 성장으로 보상하는 게이미피케이션 식습관 관리 서비스| Java 21, Spring Boot, MySQL, Redis, JMeter | [Repo](https://github.com/qkrgonn/potato-back) |
+| **🥔 POTATO** | 캐릭터 성장 보상을 통해 자취생의 꾸준한 집밥 습관을 유도하는 서비스| Java 21, Spring Boot, MySQL, Redis, JMeter | [Repo](https://github.com/qkrgonn/potato-back) |
 | **♻️ PETicle** | AI/IoT 연동 청소년 환경 교육 게이미피케이션 서비스 | Java 17, Spring Boot, MariaDB, React Native | [Repo](https://github.com/qkrgonn/PETicle-Backend) |
 
 <br>
